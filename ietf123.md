@@ -19,6 +19,8 @@
 
 ### Introduction & State of the OPSAREA Nation
 
+### RFC 5706 Refresh
+
 ### Automation API software (Wim) (confirmed)
 
 ### OPSDIR Report (confirmed)
