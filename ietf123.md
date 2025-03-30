@@ -21,6 +21,12 @@
 
 ### RFC 5706 Refresh (pending)
 
+### YANG deVELpment PrOCEss & maintenance (VELOCE) (tentative)
+
+* Reading material:
+   + [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/draft-boucadair-veloce-yang/)
+   + [NEMOPS Call for action](https://datatracker.ietf.org/meeting/122/materials/slides-122-opsawg-opsarea-nemops-workshop-readout-00)
+
 ### Automation API software (Wim) (confirmed)
 
 ### Interconnection API (pending)
@@ -31,7 +37,7 @@
 
 ### OPSDIR Report (confirmed)
 
-### Updates on Recent ICMP Extensions  (pending)
+### Updates on Recent ICMP Extensions  (tentative)
 
 * Reading material:
    + draft-ietf-intarea-rfc8335bis
