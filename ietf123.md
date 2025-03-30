@@ -25,6 +25,10 @@
 
 ### Interconnection API (pending)
 
+* Reading material:
+   + draft-ietf-grow-peering-api
+   + [autopeer](https://github.com/bgp/autopeer)
+
 ### OPSDIR Report (confirmed)
 
 ### Updates on Recent ICMP Extensions  (pending)
