@@ -19,14 +19,16 @@
 
 ### Introduction & State of the OPSAREA Nation
 
-### RFC 5706 Refresh
+### RFC 5706 Refresh (pending)
 
 ### Automation API software (Wim) (confirmed)
 
+### Interconnection API (pending)
+
 ### OPSDIR Report (confirmed)
 
-### Leverage CoAP for Network Management (pending)
+### Updates on Recent ICMP Extensions  (pending)
 
-### Interconnection API (pending)
+### Leverage CoAP for Network Management (pending)
 
 ### Open Mic
