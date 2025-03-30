@@ -29,6 +29,12 @@
 
 ### Updates on Recent ICMP Extensions  (pending)
 
+* Reading material:
+   + draft-ietf-intarea-rfc8335bis
+   + draft-ietf-intarea-icmp-exten-hdr-len
+   + draft-ietf-intarea-extended-icmp-nodeid
+   + draft-bonica-intarea-icmp-exten-hdr-len
+
 ### Leverage CoAP for Network Management (pending)
 
 ### Open Mic
