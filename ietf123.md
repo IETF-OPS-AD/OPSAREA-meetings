@@ -43,6 +43,7 @@
    + draft-ietf-intarea-rfc8335bis
    + draft-ietf-intarea-icmp-exten-hdr-len
    + draft-ietf-intarea-extended-icmp-nodeid
+   + draft-ietf-6man-icmpv6-reflection
    + draft-bonica-intarea-icmp-exten-hdr-len
 
 ### Leverage CoAP for Network Management (pending)
