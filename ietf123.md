@@ -48,4 +48,6 @@
 
 ### Leverage CoAP for Network Management (pending)
 
+### WG Chairs: Sharing Practices (Benoît)
+
 ### Open Mic
