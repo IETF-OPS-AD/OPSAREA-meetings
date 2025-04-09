@@ -48,6 +48,10 @@
 
 ### Leverage CoAP for Network Management (pending)
 
+### Towards Better Collaboration with Other SDOs
+  
+#### ITU-T Expectation (Scott)
+
 ### WG Chairs: Sharing Practices (Benoît)
 
 ### Open Mic
