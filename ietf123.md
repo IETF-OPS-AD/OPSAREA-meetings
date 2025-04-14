@@ -1,6 +1,6 @@
 # Operations & Management Area Open Meeting (opsarea) Agenda - IETF 123
 
-* ADs: Mahesh Jethanandani & Mohamed Boucadair
+* ADs: Mohamed Boucadair & Mahesh Jethanandani
 
 ## Compact Agenda
 
@@ -17,9 +17,9 @@
 
 ## Detailed Agenda
 
-### Introduction & State of the OPSAREA Nation
+### Introduction & State of the OPSAREA Nation (Confirmed)
 
-### RFC 5706 Refresh (pending)
+### RFC 5706 Refresh (Confirmed)
 
 ### YANG deVELpment PrOCEss & maintenance (VELOCE) (tentative)
 
