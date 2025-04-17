@@ -59,6 +59,8 @@
 
 ### OPSDIR Report (Carlos/Bo) (confirmed, 10 min)
 
+### Perfdir Teaser (Thomas/Marcus) (confirmed, 5 min)
+
 ### WG Chairs: Sharing Practices (Benoît)
 
 ### Open Mic (10 min)
