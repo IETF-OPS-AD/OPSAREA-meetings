@@ -10,11 +10,15 @@
 |:-----------:|:---------------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                             | ADs          |
 | 20          | State of the OPSAREA Nation                               | WG Chairs    |
-| 15          | RFC 5706 Refresh                                          | xxx          |
-| 20          | Sharing Deployment/Operational Experience                 | xxx          |
+| 15          | RFC 5706 Refresh                                          | Benoît       |
+| 20          | Sharing Deployment/Operational Experience                 | Yucheng      |
+| 15          | Automation API Software                                   | Wim          |
+| 10          | Towards Better Collaboration with Other SDOs              | Scott        |
+| 10          | OPSDIR Report                                             | Bo           |
+| 5           | Perfdir Teaser                                            | Marcus/Thomas|
 | xxxx        | xxxx                                                      | xxx          |
 | xxxx        | xxxx                                                      | xxx          |
-
+| 10          | Open Mic                                                  | All          |
 
 ## Detailed Agenda
 
@@ -28,14 +32,30 @@
 
 #### 4.1. (Google) Protective ReRoute and Protective Load-balancing (Yuchung Cheng) (Confirmed)
 
+### 5. Automation API Software (Wim) (confirmed, 15 min)
+
+### 6. Towards Better Collaboration with Other SDOs (10 min)
+  
+#### 6.1. ITU-T Expectation (Scott)
+
+### 7. Directorate Reports
+
+#### 7.1. OPSDIR Report (Carlos/Bo) (confirmed, 10 min)
+
+#### 7.2. Perfdir Teaser (Thomas/Marcus) (confirmed, 5 min)
+
+### WG Chairs: Sharing Practices (Benoît)
+
+### Open Mic (10 min)
+
+# Tentative
+
 ### YANG deVELpment PrOCEss & maintenance (VELOCE) (tentative)
 
 * Reading material:
    + [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/draft-boucadair-veloce-yang/)
    + [NEMOPS Call for action](https://datatracker.ietf.org/meeting/122/materials/slides-122-opsawg-opsarea-nemops-workshop-readout-00)
-
-### Automation API Software (Wim) (confirmed, 15 min)
-
+     
 ### Interconnection API (pending)
 
 * Reading material:
@@ -52,16 +72,3 @@
    + draft-bonica-intarea-icmp-exten-hdr-len
 
 ### Leverage CoAP for Network Management (pending)
-
-### Towards Better Collaboration with Other SDOs (10 min)
-  
-#### ITU-T Expectation (Scott)
-
-### OPSDIR Report (Carlos/Bo) (confirmed, 10 min)
-
-### Perfdir Teaser (Thomas/Marcus) (confirmed, 5 min)
-
-### WG Chairs: Sharing Practices (Benoît)
-
-### Open Mic (10 min)
-
