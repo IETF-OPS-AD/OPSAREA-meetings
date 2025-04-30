@@ -11,13 +11,11 @@
 | 5           | Agenda Bashing & Introduction                             | ADs          |
 | 20          | State of the OPSAREA Nation                               | WG Chairs    |
 | 15          | RFC 5706 Refresh                                          | Benoît       |
-| 20          | Sharing Deployment/Operational Experience                 | Yucheng      |
+| 30          | Sharing Deployment/Operational Experience                 | Yucheng/Chongfeng|
 | 15          | Automation API Software                                   | Wim          |
 | 10          | Towards Better Collaboration with Other SDOs              | Scott        |
 | 10          | OPSDIR Report                                             | Bo           |
 | 5           | Perfdir Teaser                                            | Marcus/Thomas|
-| xxxx        | xxxx                                                      | xxx          |
-| xxxx        | xxxx                                                      | xxx          |
 | 10          | Open Mic                                                  | All          |
 
 ## Detailed Agenda
@@ -28,9 +26,11 @@
 
 ### 3. RFC 5706 Refresh (Confirmed, 15 min)
 
-### 4. Sharing Deployment/Operational Experience (20 min)
+### 4. Sharing Deployment/Operational Experience (30 min)
 
-#### 4.1. (Google) Protective ReRoute and Protective Load-balancing (Yuchung Cheng) (Confirmed)
+#### 4.1. (Google) Protective ReRoute and Protective Load-balancing (Yuchung Cheng, 20 min) (Confirmed)
+
+#### 4.2. (China Mobile) API Approach (Chongfeng Xie, 10 min) (Confirmed)
 
 ### 5. Automation API Software (Wim) (confirmed, 15 min)
 
@@ -44,11 +44,11 @@
 
 #### 7.2. Perfdir Teaser (Thomas/Marcus) (confirmed, 5 min)
 
-### WG Chairs: Sharing Practices (Benoît)
-
-### Open Mic (10 min)
+### 8. Open Mic (10 min)
 
 # Tentative
+
+### WG Chairs: Sharing Practices (Benoît)
 
 ### YANG deVELpment PrOCEss & maintenance (VELOCE) (tentative)
 
