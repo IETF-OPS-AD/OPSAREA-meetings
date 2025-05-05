@@ -30,7 +30,7 @@
 
 #### 4.1. (Google) Protective ReRoute and Protective Load-balancing (Yuchung Cheng, 20 min) (Confirmed)
 
-#### 4.2. (China Mobile) API Approach (Chongfeng Xie, 10 min) (Confirmed)
+#### 4.2. (China Telecom) API Approach (Chongfeng Xie, 10 min) (Confirmed)
 
 ### 5. Automation API Software (Wim) (confirmed, 15 min)
 
