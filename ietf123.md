@@ -8,43 +8,44 @@
 
 | Slot        | Topic                                                     | Presenters   |
 |:-----------:|:---------------------------------------------------------:|:-------------|
-| 5           | Agenda Bashing & Introduction                             | ADs          |
-| 20          | State of the OPSAREA Nation                               | WG Chairs    |
-| 15          | RFC 5706 Refresh                                          | Benoît       |
-| 30          | Sharing Deployment/Operational Experience                 | Yucheng/Chongfeng|
-| 15          | Automation API Software                                   | Wim          |
-| 10          | Towards Better Collaboration with Other SDOs              | Scott        |
-| 10          | OPSDIR Report                                             | Bo           |
-| 5           | Perfdir Teaser                                            | Marcus/Thomas|
-| 10          | Open Mic                                                  | All          |
+| 5           | 1. Agenda Bashing & Introduction                          | ADs          |
+| 20          | 2. State of the OPSAREA Nation                            | WG Chairs    |
+| 15          | 3. RFC 5706 Refresh                                       | Benoît       |
+|             | 4. Sharing Deployment/Operational Experience              |              |
+| 15          | 4.1. Google Protective ReRoute and Protective Load-balancing |Yuchung    |
+| 15          | 4.2. Automation API Software                              | Wim          |
+| 15          | 4.3. Interconnection API                                  | Arturo       |
+| 10          | 4.1. China Telecom's API Approach                         | Chongfeng    |
+| 10          | 5. Towards Better Collaboration with Other SDOs           | Scott        |
+|             | Open Mic                                                  | All          |
 
 ## Detailed Agenda
 
-### 1. Introduction
+### 1. Introduction (5 min)
 
 ### 2. State of the OPSAREA Nation (Confirmed, 20 min)
 
+* OPS WGs and Directorates (OPSDIR/PERMETDIR) News
+
 ### 3. RFC 5706 Refresh (Confirmed, 15 min)
 
-### 4. Sharing Deployment/Operational Experience (30 min)
+### 4. Sharing Deployment/Operational/Implementation Experience (50 min)
 
-#### 4.1. (Google) Protective ReRoute and Protective Load-balancing (Yuchung Cheng, 20 min) (Confirmed)
+#### 4.1. Google Protective ReRoute and Protective Load-balancing (Yuchung Cheng, 15 min) (Confirmed)
 
-#### 4.2. (China Telecom) API Approach (Chongfeng Xie, 10 min) (Confirmed)
+#### 4.2. Automation API Software (Wim Henderickx, 15 min) (Confirmed)
 
-### 5. Automation API Software (Wim) (confirmed, 15 min)
+#### 4.3. Interconnection API (Arturo Servin, 15 min) (Confirmed)
 
-### 6. Towards Better Collaboration with Other SDOs (10 min)
+* Reading material:
+   + [draft-ietf-grow-peering-api](https://datatracker.ietf.org/doc/draft-ietf-grow-peering-api/)
+   + [autopeer](https://github.com/bgp/autopeer)
+
+#### 4.4. (China Telecom) API Approach (Chongfeng Xie, 10 min) (Confirmed)
+
+### 5. Towards Better Collaboration with Other SDOs: Focus on ITU-T Expectations (Scott Mansfield, 10 min) (Confirmed)
   
-#### 6.1. ITU-T Expectation (Scott)
-
-### 7. Directorate Reports
-
-#### 7.1. OPSDIR Report (Carlos/Bo) (confirmed, 10 min)
-
-#### 7.2. Perfdir Teaser (Thomas/Marcus) (confirmed, 5 min)
-
-### 8. Open Mic (10 min)
+### 6. Open Mic
 
 # Tentative
 
@@ -56,12 +57,6 @@
    + [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/draft-boucadair-veloce-yang/)
    + [NEMOPS Call for action](https://datatracker.ietf.org/meeting/122/materials/slides-122-opsawg-opsarea-nemops-workshop-readout-00)
      
-### Interconnection API (pending)
-
-* Reading material:
-   + draft-ietf-grow-peering-api
-   + [autopeer](https://github.com/bgp/autopeer)
-
 ### Updates on Recent ICMP Extensions  (tentative)
 
 * Reading material:
