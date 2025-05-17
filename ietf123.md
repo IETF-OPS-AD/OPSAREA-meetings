@@ -16,7 +16,7 @@
 | 15          | 4.2. Automation API Software                              | Wim          |
 | 15          | 4.3. Interconnection API                                  | Arturo       |
 | 10          | 4.1. China Telecom's API Approach                         | Chongfeng    |
-| 15          | 5. Cross-Area Fertilization: CoAP and Network Management  | Esko         |
+| 15          | 5. Cross-Area Fertilization: CoAP teaser                  | Esko         |
 | 10          | 6. Towards Better Collaboration with Other SDOs           | Scott        |
 |             | Open Mic                                                  | All          |
 
