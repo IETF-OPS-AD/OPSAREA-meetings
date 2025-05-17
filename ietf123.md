@@ -16,7 +16,8 @@
 | 15          | 4.2. Automation API Software                              | Wim          |
 | 15          | 4.3. Interconnection API                                  | Arturo       |
 | 10          | 4.1. China Telecom's API Approach                         | Chongfeng    |
-| 10          | 5. Towards Better Collaboration with Other SDOs           | Scott        |
+| 15          | 5. Cross-Area Fertilization: CoAP and Network Management  | Esko         |
+| 10          | 6. Towards Better Collaboration with Other SDOs           | Scott        |
 |             | Open Mic                                                  | All          |
 
 ## Detailed Agenda
@@ -43,13 +44,15 @@
 
 #### 4.4. (China Telecom) API Approach (Chongfeng Xie, 10 min) (Confirmed)
 
-### 5. Towards Better Collaboration with Other SDOs: Focus on ITU-T Expectations (Scott Mansfield, 10 min) (Confirmed)
+### 5. Leverage CoAP for Network Management (Esko Dijk, 15 min)  (Confirmed)
+
+### 6. Towards Better Collaboration with Other SDOs: Focus on ITU-T Expectations (Scott Mansfield, 10 min) (Confirmed)
   
-### 6. Open Mic
+### 7. Open Mic
 
 # Tentative
 
-### WG Chairs: Sharing Practices (Benoît)
+### WG Chairs: Sharing Practices (Benoît) (tentative)
 
 ### YANG deVELpment PrOCEss & maintenance (VELOCE) (tentative)
 
@@ -65,5 +68,3 @@
    + draft-ietf-intarea-extended-icmp-nodeid
    + draft-ietf-6man-icmpv6-reflection
    + draft-bonica-intarea-icmp-exten-hdr-len
-
-### Leverage CoAP for Network Management (pending)
