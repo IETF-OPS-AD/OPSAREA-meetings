@@ -50,21 +50,3 @@
   
 ### 7. Open Mic
 
-# Tentative
-
-### WG Chairs: Sharing Practices (Benoît) (tentative)
-
-### YANG deVELpment PrOCEss & maintenance (VELOCE) (tentative)
-
-* Reading material:
-   + [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/draft-boucadair-veloce-yang/)
-   + [NEMOPS Call for action](https://datatracker.ietf.org/meeting/122/materials/slides-122-opsawg-opsarea-nemops-workshop-readout-00)
-     
-### Updates on Recent ICMP Extensions  (tentative)
-
-* Reading material:
-   + draft-ietf-intarea-rfc8335bis
-   + draft-ietf-intarea-icmp-exten-hdr-len
-   + draft-ietf-intarea-extended-icmp-nodeid
-   + draft-ietf-6man-icmpv6-reflection
-   + draft-bonica-intarea-icmp-exten-hdr-len
