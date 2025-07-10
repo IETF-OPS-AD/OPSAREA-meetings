@@ -15,12 +15,6 @@
 | xx          | xxxx                                                      | xxx          |
 | xx          | xxxx                                                      | xxx          |
 | xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
 |             | Open Mic                                                  | All          |
 
 ## Detailed Agenda
@@ -30,6 +24,8 @@ TBC
 # Tentative
 
 ## WG Chairs: Sharing Practices (Benoît) (tentative)
+
+## Zoom on OPSDIR: Operation, Issues, and More (Bo/Daniele) (15min, tentative)
 
 ## IDR work (Ben)
 
