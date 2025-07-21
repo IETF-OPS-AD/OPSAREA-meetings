@@ -29,11 +29,10 @@ TBC
 
 ## IDR work (Ben)
 
-## YANG deVELpment PrOCEss & maintenance (VELOCE) (tentative)
+## 3535 requirements update (tentative)
 
 * Reading material:
-   + [draft-boucadair-veloce-yang](https://datatracker.ietf.org/doc/draft-boucadair-veloce-yang/)
-   + [NEMOPS Call for action](https://datatracker.ietf.org/meeting/122/materials/slides-122-opsawg-opsarea-nemops-workshop-readout-00)
+   + xxx
      
 ## Updates on Recent ICMP Extensions  (tentative)
 
