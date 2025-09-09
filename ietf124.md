@@ -11,10 +11,10 @@
 | 5           | Agenda Bashing & Introduction                             | ADs          |
 | 15          | RFC 5706 Refresh                                          | xxx          |
 | 30          | DNS Consultation Task                                     | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| xx          | xxxx                                                      | xxx          |
+| 15          | IPPM/BMWG                                                 | xxx          |
+| 30          | VELOCE                                                    | xxx          |
 | 15          | Zoom on OPSDIR                                            | xxx          |
+| xx          | xxxx                                                      | xxx          |
 |             | Open Mic                                                  | All          |
 
 ## Detailed Agenda
