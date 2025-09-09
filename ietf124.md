@@ -43,6 +43,7 @@
    + draft-ietf-intarea-extended-icmp-nodeid
    + draft-ietf-6man-icmpv6-reflection
    + draft-bonica-intarea-icmp-exten-hdr-len
+   + draft-jags-intarea-icmp-ext-underlay-info
 
 ## 3535 requirements update (tentative)
 
