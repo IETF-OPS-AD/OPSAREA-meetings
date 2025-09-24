@@ -11,8 +11,8 @@
 | 5           | Agenda Bashing & Introduction                             | ADs          |
 | 15          | RFC 5706 Refresh                                          | xxx          |
 | 30          | DNS Consultation Task                                     | xxx          |
-| 15          | IPPM/BMWG                                                 | xxx          |
-| 30          | VELOCE                                                    | xxx          |
+| 15          | IPPM/BMWG Consolidation                                   | Qin          |
+| 30          | VELOCE (?)                                                | xxx          |
 | 15          | Zoom on OPSDIR                                            | xxx          |
 | xx          | xxxx                                                      | xxx          |
 |             | Open Mic                                                  | All          |
@@ -31,11 +31,9 @@
 
 ## State of OPS Nation
 
-## WG Chairs: Sharing Practices (Benoît) (tentative)
-
-## IDR work (Ben)
-    
-## Updates on Recent ICMP Extensions  (tentative)
+## WG Chairs: Sharing Practices (Benoît)
+  
+## Updates on Recent ICMP Extensions
 
 * Reading material:
    + draft-ietf-intarea-rfc8335bis
@@ -44,8 +42,6 @@
    + draft-ietf-6man-icmpv6-reflection
    + draft-bonica-intarea-icmp-exten-hdr-len
    + draft-jags-intarea-icmp-ext-underlay-info
+   + draft-pignataro-icmp-enviro-info
 
-## 3535 requirements update (tentative)
-
-* Reading material:
-   + xxx
+## IDR work (Ben)
