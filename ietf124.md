@@ -12,9 +12,9 @@
 | 15          | Sate of OPS Nation                                        | WG Chairs    |
 | 15          | RFC 5706 Refresh                                          | xxx          |
 | 30          | DNS Consultation Task                                     | xxx          |
-| 15          | IPPM/BMWG Consolidation                                   | Qin          |
+| 15          | Benchmarking and IP Performance Consolidation             | Qin          |
 | ??          | VELOCE (?)                                                | xxx          |
-| 5           | YANG smever (tentative)                                   | Joe(?)       |
+| 5           | YANG semver (tentative)                                   | xxx          |
 | 15          | Zoom on OPSDIR                                            | xxx          |
 | xx          | xxxx                                                      | xxx          |
 |             | Open Mic                                                  | All          |
@@ -23,15 +23,17 @@
 
 ### Introduction (5 min)
 
+### State of OPS Nation (15 min)
+
 ### RFC 5706 Refresh (15 min)
 
 ### DNS Consultation Task (30 min)
 
+### Benchmarking and IP Performance Consolidation (15 min)
+
 ## Zoom on OPSDIR: Operation, Issues, and More (Bo/Daniele) (15 min)
 
 # Tentative
-
-## State of OPS Nation
 
 ## WG Chairs: Sharing Practices (Benoît)
   
