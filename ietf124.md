@@ -4,19 +4,17 @@
 
 ## Compact Agenda
 
-### Session 1
-
 | Slot        | Topic                                                     | Presenters   |
 |:-----------:|:---------------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                             | ADs          |
 | 15          | Sate of OPS Nation                                        | WG Chairs    |
-| 15          | RFC 5706 Refresh                                          | xxx          |
+| 15          | Zoom on OPSDIR                                            | Bo/Danielle  |
+| 15          | RFC 5706 Refresh                                          | Benoît       |
 | 30          | DNS Consultation Task                                     | xxx          |
 | 15          | Benchmarking and IP Performance Consolidation             | Qin          |
-| ??          | VELOCE (?)                                                | xxx          |
 | 5           | YANG semver (tentative)                                   | xxx          |
-| 15          | Zoom on OPSDIR                                            | xxx          |
 | xx          | xxxx                                                      | xxx          |
+| ??          | VELOCE (?)                                                | xxx          |
 |             | Open Mic                                                  | All          |
 
 ## Detailed Agenda
@@ -31,7 +29,9 @@
 
 ### Benchmarking and IP Performance Consolidation (15 min)
 
-## Zoom on OPSDIR: Operation, Issues, and More (Bo/Daniele) (15 min)
+### Zoom on OPSDIR: Operation, Issues, and More (Bo/Daniele) (15 min)
+
+### IDR work (Ben)
 
 # Tentative
 
@@ -48,4 +48,4 @@
    + draft-jags-intarea-icmp-ext-underlay-info
    + draft-pignataro-icmp-enviro-info
 
-## IDR work (Ben)
+
