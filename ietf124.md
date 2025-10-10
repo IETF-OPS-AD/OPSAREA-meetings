@@ -8,14 +8,13 @@
 |:-----------:|:---------------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                             | ADs          |
 | 15          | Sate of OPS Nation                                        | WG Chairs    |
+| 15          | ONIONS: Update & Next Steps                               | Joe/Dhruv    |
 | 15          | Zoom on OPSDIR                                            | Bo/Danielle  |
 | 15          | RFC 5706 Refresh                                          | Benoît       |
-| 30          | DNS Consultation Task                                     | xxx          |
+| 30          | DNS Consultation Task                                     | Wes          |
 | 15          | Benchmarking and IP Performance Consolidation             | Qin          |
-| 5           | YANG semver (tentative)                                   | xxx          |
-| xx          | xxxx                                                      | xxx          |
-| ??          | VELOCE (?)                                                | xxx          |
-|             | Open Mic                                                  | All          |
+| 5           | YANG semver (tentative)                                   | Mahesh       |
+| 10          | Open Mic                                                  | All          |
 
 ## Detailed Agenda
 
@@ -23,15 +22,19 @@
 
 ### State of OPS Nation (15 min)
 
+### ONIONS: Update & Next Steps (15 min)
+
+### Zoom on OPSDIR: Operation, Issues, and More (Bo/Daniele) (15 min)
+
 ### RFC 5706 Refresh (15 min)
 
 ### DNS Consultation Task (30 min)
 
 ### Benchmarking and IP Performance Consolidation (15 min)
 
-### Zoom on OPSDIR: Operation, Issues, and More (Bo/Daniele) (15 min)
+### YANG semver (5 min)
 
-### IDR work (Ben)
+### Open Mic (10 min)
 
 # Tentative
 
