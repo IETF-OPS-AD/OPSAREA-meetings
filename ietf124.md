@@ -7,14 +7,18 @@
 | Slot        | Topic                                                     | Presenters   |
 |:-----------:|:---------------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                             | ADs          |
-| 15          | Sate of OPS Nation                                        | WG Chairs    |
-| 15          | ONIONS: Update & Next Steps                               | Joe/Dhruv    |
+| 30          | Sate of OPS Nation                                        | WG Chairs    |
 | 15          | Zoom on OPSDIR                                            | Bo/Danielle  |
 | 15          | RFC 5706 Refresh                                          | Benoît       |
-| 30          | DNS Consultation Task                                     | Wes          |
 | 15          | Benchmarking and IP Performance Consolidation             | Qin          |
-| 5           | YANG semver (tentative)                                   | Mahesh       |
-| 10          | Open Mic                                                  | All          |
+| 30+10       | DNS Consultation Task                                     | Wes          |
+
+
+
+To be changes:
+| 15          | ONIONS: Update & Next Steps                               | Joe/Dhruv    |
+
+VELOCE: experiment definition===Mahesh to propose changes/next steps based on IETF123 discussion<====OPSAWG
 
 ## Detailed Agenda
 
