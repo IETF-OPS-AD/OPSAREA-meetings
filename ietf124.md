@@ -12,7 +12,8 @@
 | 15          | RFC 5706 Refresh                                    | Benoît       |
 | 15          | Benchmarking & IP Performance (BIPP) Consolidation  | Qin          |
 | 30          | DNS Consultation Task                               | Wes          |
-| 10          | Open Mic                                            | All          |
+| 5           | Real-World Cyber Security Risks and Defences        | Michael      |
+| 5           | Open Mic                                            | All          |
 
 ## Detailed Agenda
 
@@ -28,7 +29,9 @@
 
 ### DNS Consultation Task (Wes Hardaker, 30 min)
 
-### Open Mic (10 min)
+### Real-World Cyber Security Risks and Defences: Focus on Operational Aspects (Michael P1, 5 min)
+
+### Open Mic (5 min)
 
 # Tentative
 
