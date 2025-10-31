@@ -7,12 +7,12 @@
 | Slot        | Topic                                               | Presenters   |
 |:-----------:|:---------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                       | ADs          |
-| 30          | Sate of OPS Nation                                  | WG Chairs    |
-| 15          | Zoom on OPSDIR                                      | Bo/Danielle  |
+| 30          | Sate of OPS Nation                                  | Daniele/Lenny/Luigi|
+| 15          | Zoom on OPSDIR                                      | Bo   |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
 | 15          | Benchmarking & IP Performance (BIPP) Consolidation  | Qin          |
 | 30          | DNS Consultation Task                               | Wes          |
-| 5           | Real-World Cyber Security Risks and Defences        | Michael      |
+| 5           | Real-World Cyber Security Risks and Defences: Focus on Operational Aspects        | Michael      |
 | 5           | Open Mic                                            | All          |
 
 ## Detailed Agenda
@@ -20,6 +20,8 @@
 ### Introduction (ADs, 5 min)
 
 ### State of OPS Nation (WG Chairs, 30 min)
+
+Focus on IVY, MBONED, and SIDROPS.
 
 ### Zoom on OPSDIR: Operation, Issues, and More (Bo Wu/Daniele Ceccarelli, 15 min)
 
