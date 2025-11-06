@@ -10,7 +10,7 @@
 | 30          | Sate of OPS Nation                                  | Daniele/Lenny/Luigi|
 | 15          | Zoom on OPSDIR                                      | Bo   |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
-| 15          | Benchmarking & IP Performance (BIPP) Consolidation  | Qin          |
+| 15          | Benchmarking & IP Performance (BIPP)   | Qin          |
 | 30          | DNS Consultation Task                               | Wes          |
 | 5           | Real-World Cyber Security Risks and Defences: Focus on Operational Aspects        | Michael      |
 | 5           | Open Mic                                            | All          |
@@ -27,7 +27,7 @@ Focus on IVY, MBONED, and SIDROPS.
 
 ### RFC 5706 Refresh (Benoît Claise, 15 min)
 
-### Benchmarking & IP Performance (BIPP) Consolidation (Qin Wu, 15 min)
+### Benchmarking & IP Performance (BIPP)  (Qin Wu, 15 min)
 
 ### DNS Consultation Task (Wes Hardaker, 30 min)
 
