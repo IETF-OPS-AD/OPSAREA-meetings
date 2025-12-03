@@ -1,4 +1,4 @@
-# Operations & Management Area Open Meeting (opsarea) Agenda - IETF 124
+# Operations & Management Area Open Meeting (opsarea) Agenda - IETF 125
 
 * ADs: Mohamed Boucadair & Mahesh Jethanandani
 
@@ -22,15 +22,15 @@
 
 Focus on GROW and SRV6OPS.
 
-### Zoom on YANGDOCTORS: Operation, Issues, and More (Bo Wu/Daniele Ceccarelli, 15 min)
+### Zoom on YANGDOCTORS: Operation, Issues, and More (Per/Qiufang, 15 min)
 
 ### RFC 5706 Refresh (Benoît Claise, 15 min)
 
 ### Operators Slot (xxxx, 45 min)
 
-### IA & OPS (xxxx, 20 min)
+Tentative (IANETOPS, network OS, etc.)
 
-### Open Mic (5 min)
+### IA & OPS (xxxx, 20 min)
 
 # Tentative
 
