@@ -8,7 +8,7 @@
 |:-----------:|:---------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                       | ADs          |
 | 20          | Sate of OPS Nation                                  | Dhruv/Paolo  |
-| 15          | Zoom on YANGDOCTORS                                 | Per          |
+| 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
 | 45          | OPERATORS SLOT                                      | xxxx         |
 | 20          | DNS Consultation Task                               | Wes          |
