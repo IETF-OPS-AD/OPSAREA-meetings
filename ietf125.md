@@ -18,11 +18,11 @@
 
 ### Introduction (ADs, 5 min)
 
-### State of OPS Nation (WG Chairs, 20 min)
+### State of OPS Nation (WG Chairs, 20 min) (Confirmed)
 
 Focus on GROW and SRV6OPS.
 
-### Zoom on YANGDOCTORS: Operation, Issues, and More (Per/Qiufang, 15 min)
+### Zoom on YANGDOCTORS: Operation, Issues, and More (Per/Qiufang, 15 min)  (Confirmed)
 
 ### RFC 5706 Refresh (Benoît Claise, 15 min)
 
