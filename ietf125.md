@@ -7,11 +7,11 @@
 | Slot        | Topic                                               | Presenters   |
 |:-----------:|:---------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                       | ADs          |
-| 20          | Sate of OPS Nation                                  | xxx          |
+| 20          | Sate of OPS Nation                                  | Dhruv/Paolo  |
 | 15          | Zoom on YANGDOCTORS                                 | Per          |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
 | 45          | OPERATORS SLOT                                      | xxxx         |
-| 20          | IA & OPS                                            | Xxxx         |
+| 20          | DNS Consultation Task                               | Wes          |
 
 
 ## Detailed Agenda
@@ -30,13 +30,13 @@ Focus on GROW and SRV6OPS.
 
 Tentative (IANETOPS, network OS, etc.)
 
-### IA & OPS (xxxx, 20 min)
+### DNS Consultation Task (Wes Hardaker)
+
+### IA & OPS (xxxx, xx min)
 
 # Tentative
 
 ## Benchmarking & IP Performance (BIPP)  (Qin Wu)
-
-## DNS Consultation Task (Wes Hardaker)
 
 ## WG Chairs: Sharing Practices (Benoît)
 
