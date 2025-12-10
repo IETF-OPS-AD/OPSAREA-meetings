@@ -10,7 +10,7 @@
 | 20          | Sate of OPS Nation                                  | Dhruv/Paolo  |
 | 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
-| 45          | Operators Slot: Focus on IA Operations              | xxxx         |
+| 45          | Operators Slot: Focus on AI Operations              | xxxx         |
 | 20          | DNS Consultation Task                               | Wes          |
 
 
@@ -26,7 +26,7 @@ Focus on GROW and SRV6OPS.
 
 ### RFC 5706 Refresh (Benoît Claise, 15 min)
 
-### Operators Slot: Focus on IAOPS (45 min)  (Confirmed)
+### Operators Slot: Focus on AIOPS (45 min)  (Confirmed)
 
 #### OPS Challenges and Practices in the AI Era
 
@@ -34,7 +34,7 @@ Focus on GROW and SRV6OPS.
 
 #### Challenges of AIOPS for Carrier IP Networks
 
-* Presenter:  The presenter is yet to be determined（China Mobile）
+* Presenter:  TBC（China Mobile）
 
 #### Intelligent Operation and Maintenance: Practices and Reflections
 
