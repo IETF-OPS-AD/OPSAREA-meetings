@@ -10,7 +10,7 @@
 | 20          | Sate of OPS Nation                                  | Dhruv/Paolo  |
 | 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
-| 45          | Operators Slot: Focus on AI Operations              | xxxx         |
+| 45          | Operators Slot: Focus on AI Operations              | Qiong/Yu, Xiaoqiu, Jing    |
 | 20          | DNS Consultation Task                               | Wes          |
 
 
@@ -30,11 +30,11 @@ Focus on GROW and SRV6OPS.
 
 #### OPS Challenges and Practices in the AI Era
 
-* Presenter:  Qiong Sun/Yu Fu（China Telecom）
+* Presenter:  Qiong Sun（China Telecom） and Yu Fu（China Telecom)
 
 #### Challenges of AIOPS for Carrier IP Networks
 
-* Presenter:  TBC（China Mobile）
+* Presenter:  Xiaoqiu Zhang （China Mobile
 
 #### Intelligent Operation and Maintenance: Practices and Reflections
 
