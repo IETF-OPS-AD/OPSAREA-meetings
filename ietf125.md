@@ -10,7 +10,7 @@
 | 20          | Sate of OPS Nation                                  | Dhruv/Paolo  |
 | 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
-| 45          | Operators Slot: Focus on AI Operations              | Qiong/Yu, Xiaoqiu, Jing    |
+| 45          | Operators Slot: Focus on AI Network Operations      | Qiong/Yu, Xiaoqiu, Jing    |
 | 20          | DNS Consultation Task                               | Wes          |
 
 
@@ -26,7 +26,7 @@ Focus on GROW and SRV6OPS.
 
 ### RFC 5706 Refresh (Benoît Claise, 15 min)
 
-### Operators Slot: Focus on AIOPS (45 min)  (Confirmed)
+### Operators Slot: Focus on AINETOPS (45 min)  (Confirmed)
 
 #### OPS Challenges and Practices in the AI Era
 
@@ -40,25 +40,4 @@ Focus on GROW and SRV6OPS.
 
 * Presenter:  Jing Zhao（China Unicom）
 
-### DNS Consultation Task (Wes Hardaker)
-
-
-# Tentative
-
-## Benchmarking & IP Performance (BIPP)  (Qin Wu)
-
-## WG Chairs: Sharing Practices (Benoît)
-
-## BGP (Ben)
-
-## Updates on Recent ICMP Extensions
-
-* Reading material:
-   + draft-ietf-intarea-rfc8335bis
-   + draft-ietf-intarea-icmp-exten-hdr-len
-   + draft-ietf-intarea-extended-icmp-nodeid
-   + draft-ietf-6man-icmpv6-reflection
-   + draft-bonica-intarea-icmp-exten-hdr-len
-   + draft-jags-intarea-icmp-ext-underlay-info
-   + draft-pignataro-icmp-enviro-info
-
+### DNS Consultation Task (Wes Hardaker, 20 min)  (Confirmed)
