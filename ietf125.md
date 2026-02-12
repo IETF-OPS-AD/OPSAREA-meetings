@@ -11,7 +11,7 @@
 | 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
 | 45          | Operators Slot: Focus on AI Network Operations      | Qiong/Yu, Xiaoqiu, Jing    |
-| 20          | DNS Consultation Task                               | Wes          |
+| 20          | DNS Consultation Task                               | Wes/Joe/Lars-Johan         |
 
 
 ## Detailed Agenda
@@ -40,4 +40,4 @@ Focus on GROW and SRV6OPS.
 
 * Presenter:  Jing Zhao（China Unicom）
 
-### DNS Consultation Task (Wes Hardaker, 20 min)  (Confirmed)
+### DNS Consultation Task (Wes Hardaker/Joe Abley/Lars-Johan Liman, 20 min)  (Confirmed)
