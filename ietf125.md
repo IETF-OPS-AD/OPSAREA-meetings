@@ -10,23 +10,25 @@
 | 20          | Sate of OPS Nation                                  | Dhruv/Paolo  |
 | 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
-| 45          | Operators Slot: Focus on AI Network Operations      | Qiong/Yu, Xiaoqiu, Jing    |
 | 20          | DNS Consultation Task                               | Wes/Joe/Lars-Johan         |
+| 45          | Operators Slot: Focus on AI Network Operations      | Qiong/Yu, Xiaoqiu, Jing    |
 
 
 ## Detailed Agenda
 
 ### Introduction (ADs, 5 min)
 
-### State of OPS Nation (WG Chairs, 20 min) (Confirmed)
+### State of OPS Nation (WG Chairs, 20 min)
 
 Focus on GROW and SRV6OPS.
 
-### Zoom on YANGDOCTORS: Operation, Issues, and More (Per/Qiufang, 15 min)  (Confirmed)
+### Zoom on YANGDOCTORS: Operation, Issues, and More (Per/Qiufang, 15 min)
 
 ### RFC 5706 Refresh (Benoît Claise, 15 min)
 
-### Operators Slot: Focus on AINETOPS (45 min)  (Confirmed)
+### DNS Consultation Task (Wes Hardaker/Joe Abley/Lars-Johan Liman, 20 min)
+
+### Operators Slot: Focus on AINETOPS (45 min)
 
 #### OPS Challenges and Practices in the AI Era
 
@@ -39,5 +41,3 @@ Focus on GROW and SRV6OPS.
 #### Intelligent Operation and Maintenance: Practices and Reflections
 
 * Presenter:  Jing Zhao（China Unicom）
-
-### DNS Consultation Task (Wes Hardaker/Joe Abley/Lars-Johan Liman, 20 min)  (Confirmed)
