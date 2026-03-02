@@ -7,7 +7,7 @@
 | Slot        | Topic                                               | Presenters   |
 |:-----------:|:---------------------------------------------------:|:-------------|
 | 5           | Agenda Bashing & Introduction                       | ADs          |
-| 20          | Sate of OPS Nation                                  | Dhruv/Paolo  |
+| 20          | State of OPS Area                                   | Dhruv/Paolo  |
 | 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
 | 20          | DNS Consultation Task                               | Wes/Joe/Lars-Johan         |
@@ -18,7 +18,7 @@
 
 ### Introduction (ADs, 5 min)
 
-### State of OPS Nation (WG Chairs, 20 min)
+### State of OPS Area (WG Chairs, 20 min)
 
 Focus on GROW and SRV6OPS.
 
