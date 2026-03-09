@@ -10,7 +10,7 @@
 | 20          | State of OPS Area                                   | Dhruv/Paolo  |
 | 15          | Zoom on YANGDOCTORS                                 | Per/Qiufang  |
 | 15          | RFC 5706 Refresh                                    | Benoît       |
-| 45          | Operators Slot: Focus on AI Network Operations      | Qiong/Yu, Xiaoqiu, Jing    |
+| 45          | Operators Slot: Focus on AI Network Operations      | Qiong/Yu, Feng, Jing    |
 | 20          | DNS Consultation Task                               | Wes/Joe/Lars-Johan         |
 
 
@@ -35,7 +35,7 @@ Focus on GROW and SRV6OPS.
 #### Challenges of AIOPS for Carrier IP Networks
 
 ### DNS Consultation Task (Wes Hardaker/Joe Abley/Lars-Johan Liman, 20 min)
-* Presenter:  Xiaoqiu Zhang （China Mobile
+* Presenter:  Feng Yang （China Mobile)
 
 #### Intelligent Operation and Maintenance: Practices and Reflections
 
