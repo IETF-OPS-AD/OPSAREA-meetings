@@ -26,6 +26,9 @@
 
 # Tentative
 
+## NMRG/IETF OPS Transfer: Status, Exploring collaboration
+
+
 ## Benchmarking & IP Performance (BIPP)
 
 ## WG Chairs: Sharing Practices (Benoît)
