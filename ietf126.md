@@ -21,21 +21,15 @@
 
 ### State of OPS Nation (WG Chairs, 20 min)
 
+## Tentative
 
+### AINETOPS Follow-up (20 min)
 
+### NMRG/IETF OPS Transfer: Status, Exploring collaboration (15 min)
 
-# Tentative
+### Report from the IAB Workshop on IP Address Geolocation (15 min)
 
-## NMRG/IETF OPS Transfer: Status, Exploring collaboration
-
-
-## Benchmarking & IP Performance (BIPP)
-
-## WG Chairs: Sharing Practices (Benoît)
-
-## BGP (Ben)
-
-## Updates on Recent ICMP Extensions: Operational Motivations & Rationale
+### Updates on Recent ICMP Extensions: Operational Motivations & Rationale (15 min)
 
 * Reading material:
    + draft-ietf-intarea-rfc8335bis
@@ -57,4 +51,5 @@
    + draft-xu-intarea-vulnerabilities-forged-icmp
    + draft-xu-intarea-challenge-icmpv4
 
+## Benchmarking & IP Performance (BIPP)
 
