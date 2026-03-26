@@ -21,13 +21,13 @@
 
 ### State of OPS Nation (WG Chairs, 20 min)
 
+### IAB Workshop on IP Address Geolocation: Issues and Perspectives (15 min)
+
 ## Tentative
 
 ### AINETOPS Follow-up (20 min)
 
 ### NMRG/IETF OPS Transfer: Status, Exploring collaboration (15 min)
-
-### Report from the IAB Workshop on IP Address Geolocation (15 min)
 
 ### Updates on Recent ICMP Extensions: Operational Motivations & Rationale (15 min)
 
