@@ -4,15 +4,15 @@
 
 ## Compact Agenda
 
-| Slot        | Topic                                               | Presenters   |
-|:-----------:|:---------------------------------------------------:|:-------------|
-| 5           | Agenda Bashing & Introduction                       | ADs          |
-|            |                                    |    |
-|            |                                   |   |
-|            |                                    |    |
-|            |                                   |   |
-|            |                                    |    |
-|            |                                   |   |
+|Slot      | Topic                                               | Presenters   |
+|:--------:|:---------------------------------------------------:|:-------------|
+| 5        | Agenda Bashing & Introduction                       | ADs          |
+| 20       | State of OPS Nation                                 | TBC          |
+| 15       | IP Address Geolocation                              | Tommy        |
+|          |                                                     |    |
+|          |                                                     |   |
+|          |                                                     |    |
+|          |                                                     |   |
 
 
 ## Detailed Agenda
