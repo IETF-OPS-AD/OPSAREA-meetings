@@ -51,5 +51,17 @@
    + draft-xu-intarea-vulnerabilities-forged-icmp
    + draft-xu-intarea-challenge-icmpv4
 
-## Benchmarking & IP Performance (BIPP)
+## foo over QUIC: Operational Motivations & Challenges
+
+Several proposals are being developped to basically add support for QUIC. The purpose would be to understand what are the operational benifits and also the challanges (e.g., troubelshooting, diagnostic, etc.). Some of these deployments rely on stable/long session, where the use 0-RTT/1-RTT QUIC features may not bring much value.
+
+   + draft-ietf-regext-epp-quic: Extensible Provisioning Protocol (EPP) Transport over QUIC
+   + draft-ietf-netconf-over-quic: NETCONF over QUIC
+   + draft-liu-grow-bmp-over-quic: Using BMP over QUIC connection
+   + draft-liu-sidrops-rpki-rtr-over-quic: RPKI to Router Protocol over QUIC
+   + draft-llg-opsawg-ipfix-over-quic: IPFIX Protocol over QUIC
+   + draft-retana-idr-bgp-quic: BGP over QUIC
+   + draft-yl-radext-quic-transport: RADIUS over QUIC
+   + draft-cel-nfsv4-rpc-over-quicv1: Remote Procedure Call over QUIC Version 1
+
 
