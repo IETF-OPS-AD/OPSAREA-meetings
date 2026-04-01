@@ -9,7 +9,7 @@
 | 5        | Agenda Bashing & Introduction                       | ADs          |
 | 20       | State of OPS Nation                                 | TBC          |
 | 15       | IP Address Geolocation                              | Tommy        |
-|          |                                                     |    |
+| 20       | foo over QUIC: Operational Motivations & Challenges | Per   |
 |          |                                                     |   |
 |          |                                                     |    |
 |          |                                                     |   |
@@ -22,6 +22,21 @@
 ### State of OPS Nation (WG Chairs, 20 min)
 
 ### IAB Workshop on IP Address Geolocation: Issues and Perspectives (15 min)
+
+### foo over QUIC: Operational Motivations & Challenges (Per Andersson, 20 min)
+
+Several proposals are being developped to add support for QUIC. The purpose is to understand what are the operational benifits and also the challanges (e.g., troubelshooting, diagnostic, etc.). Some of these deployments rely on stable/long sessions, where the use 0-RTT/1-RTT QUIC features may not bring much value.
+
+Putting aside whether there are transport services specific for each of a protocol, there is a value to have a common understanding of the benefits, explore whether there is common operational guidance that can inform most of these extensions (and simialr), but also to understand the underlying challenges that can be inherited (e.g., troubleshooting, diagnostic, etc.) especially when the connection endpoints are not adjacent to each others.
+
+   + draft-ietf-regext-epp-quic: Extensible Provisioning Protocol (EPP) Transport over QUIC
+   + draft-ietf-netconf-over-quic: NETCONF over QUIC
+   + draft-liu-grow-bmp-over-quic: Using BMP over QUIC connection
+   + draft-liu-sidrops-rpki-rtr-over-quic: RPKI to Router Protocol over QUIC
+   + draft-llg-opsawg-ipfix-over-quic: IPFIX Protocol over QUIC
+   + draft-retana-idr-bgp-quic: BGP over QUIC
+   + draft-yl-radext-quic-transport: RADIUS over QUIC
+   + draft-cel-nfsv4-rpc-over-quicv1: Remote Procedure Call over QUIC Version 1
 
 ## Tentative
 
@@ -51,17 +66,6 @@
    + draft-xu-intarea-vulnerabilities-forged-icmp
    + draft-xu-intarea-challenge-icmpv4
 
-## foo over QUIC: Operational Motivations & Challenges
 
-Several proposals are being developped to basically add support for QUIC. The purpose would be to understand what are the operational benifits and also the challanges (e.g., troubelshooting, diagnostic, etc.). Some of these deployments rely on stable/long session, where the use 0-RTT/1-RTT QUIC features may not bring much value.
-
-   + draft-ietf-regext-epp-quic: Extensible Provisioning Protocol (EPP) Transport over QUIC
-   + draft-ietf-netconf-over-quic: NETCONF over QUIC
-   + draft-liu-grow-bmp-over-quic: Using BMP over QUIC connection
-   + draft-liu-sidrops-rpki-rtr-over-quic: RPKI to Router Protocol over QUIC
-   + draft-llg-opsawg-ipfix-over-quic: IPFIX Protocol over QUIC
-   + draft-retana-idr-bgp-quic: BGP over QUIC
-   + draft-yl-radext-quic-transport: RADIUS over QUIC
-   + draft-cel-nfsv4-rpc-over-quicv1: Remote Procedure Call over QUIC Version 1
 
 
