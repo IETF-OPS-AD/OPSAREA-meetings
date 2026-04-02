@@ -44,6 +44,8 @@ Putting aside whether there are transport services specific for each of a protoc
 
 ### NMRG/IETF OPS Transfer: Status, Exploring collaboration (15 min)
 
+### NMOP 3535 refresh: Focus on implementation Guidance (20 min)
+
 ### Updates on Recent ICMP Extensions: Operational Motivations & Rationale (15 min)
 
 * Reading material:
