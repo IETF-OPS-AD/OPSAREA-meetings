@@ -36,6 +36,7 @@ Putting aside whether there are transport services specific for each of a protoc
    + draft-llg-opsawg-ipfix-over-quic: IPFIX Protocol over QUIC
    + draft-retana-idr-bgp-quic: BGP over QUIC
    + draft-yl-radext-quic-transport: RADIUS over QUIC
+   + draft-yang-pce-pcep-over-quic: PCEP over QUIC
    + draft-cel-nfsv4-rpc-over-quicv1: Remote Procedure Call over QUIC Version 1
 
 ## Tentative
