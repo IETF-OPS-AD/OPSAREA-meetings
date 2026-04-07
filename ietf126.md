@@ -25,9 +25,9 @@
 
 ### foo over QUIC: Operational Motivations & Challenges (Per Andersson, 20 min)
 
-Several proposals are being developped to add support for QUIC. The purpose is to understand what are the operational benifits and also the challanges (e.g., troubelshooting, diagnostic, etc.). Some of these deployments rely on stable/long sessions, where the use 0-RTT/1-RTT QUIC features may not bring much value.
+Many proposals are being promoted in several IETF WGs to port protocols widely used in operator networks to be transported over QUIC. There might be technical arguments that motivate such extensions, however, porting protocols used within operator networks to support QUIC would have some impacts on fault isolation, troubleshooting, etc. Because of the lack of the visibility on the transport headers, providing feature parity may be challenging without tools upgrade and also logistic (e.g., synchronize keys to decode messages, etc.).
 
-Putting aside whether there are transport services specific for each of a protocol, there is a value to have a common understanding of the benefits, explore whether there is common operational guidance that can inform most of these extensions (and simialr), but also to understand the underlying challenges that can be inherited (e.g., troubleshooting, diagnostic, etc.) especially when the connection endpoints are not adjacent to each others.
+There is a need to (1) have a common understanding of the operational benefits, (2) understand the underlying challenges that can be inherited especially when the connection endpoints are not adjacent to each others, and (3) identify deployment incentives especially when there are alternate mechanisms to achieve similar objectives (TLS, etc.), (4) identify whether there are specific missing QUIC features that would ease use in operators network , and (5) explore whether there is common operational guidance that can inform most of these extensions (and similar).
 
    + draft-ietf-regext-epp-quic: Extensible Provisioning Protocol (EPP) Transport over QUIC
    + draft-ietf-netconf-over-quic: NETCONF over QUIC
