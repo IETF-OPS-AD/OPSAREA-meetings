@@ -49,6 +49,8 @@ There is a need to (1) have a common understanding of the operational benefits, 
 
 ### Updates on Recent ICMP Extensions: Operational Motivations & Rationale (15 min)
 
+There are many proposals to extend ICMP/ICMPv6 with a new feature. This slot is meant to expose ICMP-related work to the OPS community by providing a bi picture of various extensions, highlight the operational issues, and discuss deployability challenges of some of these extensions. This can also be an opportunity to seek for feedback from operators. Some guidance about extending ICMP/ICMPv6 while taking into account deployment matters may be considered.
+
 * Reading material:
    + draft-ietf-intarea-rfc8335bis
    + draft-ietf-intarea-icmp-exten-hdr-len
