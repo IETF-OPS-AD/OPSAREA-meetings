@@ -10,7 +10,7 @@
 | 20       | State of OPS Nation                                 | TBC          |
 | 15       | IP Address Geolocation                              | Tommy        |
 | 20       | foo over QUIC: Operational Motivations & Challenges | Per   |
-|          |                                                     |   |
+| 15       | Proposals for ICMP Extensions: Operational Motivations & Rationale | Ron  |
 |          |                                                     |    |
 |          |                                                     |   |
 
@@ -39,15 +39,7 @@ There is a need to (1) have a common understanding of the operational benefits, 
    + draft-yang-pce-pcep-over-quic: PCEP over QUIC
    + draft-cel-nfsv4-rpc-over-quicv1: Remote Procedure Call over QUIC Version 1
 
-## Tentative
-
-### AINETOPS Follow-up (15 min)
-
-### NMRG/IETF OPS Transfer: Status, Exploring collaboration (15 min)
-
-### NMOP 3535 refresh: Focus on implementation Guidance (15 min)
-
-### Updates on Recent ICMP Extensions: Operational Motivations & Rationale (15 min)
+### Proposals for ICMP Extensions: Operational Motivations & Rationale (15 min)
 
 There are many proposals to extend ICMP/ICMPv6 with a new feature. This slot is meant to expose ICMP-related work to the OPS community by providing a bi picture of various extensions, highlight the operational issues, and discuss deployability challenges of some of these extensions. This can also be an opportunity to seek for feedback from operators. Some guidance about extending ICMP/ICMPv6 while taking into account deployment matters may be considered.
 
@@ -70,6 +62,16 @@ There are many proposals to extend ICMP/ICMPv6 with a new feature. This slot is 
    + draft-xu-intarea-challenge-icmpv6
    + draft-xu-intarea-vulnerabilities-forged-icmp
    + draft-xu-intarea-challenge-icmpv4
+
+## Tentative
+
+### AINETOPS Follow-up (15 min)
+
+### NMRG/IETF OPS Transfer: Status, Exploring collaboration (15 min)
+
+### NMOP 3535 refresh: Focus on implementation Guidance (15 min)
+
+
 
 
 
