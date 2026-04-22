@@ -11,7 +11,7 @@
 | 15       | IP Address Geolocation                              | Tommy        |
 | 20       | foo over QUIC: Operational Motivations & Challenges | Per   |
 | 15       | Proposals for ICMP Extensions: Operational Motivations & Rationale | Ron  |
-|          |                                                     |    |
+| 15       | Raven: Opensource BGP Routing Validation            | Ritesh       |
 |          |                                                     |   |
 
 
@@ -62,6 +62,10 @@ There are many proposals to extend ICMP/ICMPv6 with a new feature. This slot is 
    + draft-xu-intarea-challenge-icmpv6
    + draft-xu-intarea-vulnerabilities-forged-icmp
    + draft-xu-intarea-challenge-icmpv4
+
+### Raven, an Opensource BGP Routing Validation Tool
+
+RAVEN is an open-source, lightweight, single-binary routing security observability tool. It connects directly to your routers via BMP, validates every route against RPKI ROV and ASPA path validation in real time, and exposes the results through a CLI, Prometheus metrics, and Grafana dashboards.
 
 ## Tentative
 
