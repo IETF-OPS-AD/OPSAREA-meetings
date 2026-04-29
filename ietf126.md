@@ -21,6 +21,8 @@
 
 ### State of OPS Nation (WG Chairs, 20 min)
 
+* DCONN (Peter/Hans)
+
 ### IAB Workshop on IP Address Geolocation: Issues and Perspectives (15 min)
 
 ### foo over QUIC: Operational Motivations & Challenges (Per Andersson, 20 min)
