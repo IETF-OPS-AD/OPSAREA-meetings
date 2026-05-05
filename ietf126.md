@@ -81,7 +81,7 @@ There are several WG/RG pairs that may be considered for collaboration (NMRG/NMO
 
 Thomas will drive a discussion on this topic with some proposals to bridge both communities.
 
-### Implementation Policy in OPS? (Job Sneider, 15 min)
+### Implementation Policy in OPS? (Job Snijders, 15 min)
 
 ### Raven, an Opensource BGP Routing Validation Tool (15 min)
 
