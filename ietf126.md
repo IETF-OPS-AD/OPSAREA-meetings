@@ -11,7 +11,10 @@
 | 15       | IP Address Geolocation                              | Tommy        |
 | 20       | foo over QUIC: Operational Motivations & Challenges | Per   |
 | 15       | Proposals for ICMP Extensions: Operational Motivations & Rationale | Ron  |
+| 15       |IRTF/IETF OPS Transfer: Status & Exploring Collaboration Opportunities| Thomas  |
 | 15       | Raven: Opensource BGP Routing Validation            | Ritesh       |
+|          |                                                     |   |
+|          |                                                     |   |
 |          |                                                     |   |
 
 
@@ -23,7 +26,7 @@
 
 * DCONN (Peter/Hans)
 
-### IAB Workshop on IP Address Geolocation: Issues and Perspectives (15 min)
+### IAB Workshop on IP Address Geolocation: Issues and Perspectives (Tommy Pauly, 15 min)
 
 ### foo over QUIC: Operational Motivations & Challenges (Per Andersson, 20 min)
 
@@ -41,7 +44,7 @@ There is a need to (1) have a common understanding of the operational benefits, 
    + draft-yang-pce-pcep-over-quic: PCEP over QUIC
    + draft-cel-nfsv4-rpc-over-quicv1: Remote Procedure Call over QUIC Version 1
 
-### Proposals for ICMP Extensions: Operational Motivations & Rationale (15 min)
+### Proposals for ICMP Extensions: Operational Motivations & Rationale (Ron Bonica, 15 min)
 
 There are many proposals to extend ICMP/ICMPv6 with a new feature. This slot is meant to expose ICMP-related work to the OPS community by providing a bi picture of various extensions, highlight the operational issues, and discuss deployability challenges of some of these extensions. This can also be an opportunity to seek for feedback from operators. Some guidance about extending ICMP/ICMPv6 while taking into account deployment matters may be considered.
 
@@ -65,6 +68,19 @@ There are many proposals to extend ICMP/ICMPv6 with a new feature. This slot is 
    + draft-xu-intarea-vulnerabilities-forged-icmp
    + draft-xu-intarea-challenge-icmpv4
 
+### IRTF/IETF OPS Transfer: Status & Exploring Collaboration Opportunities (Thomas Graff, 15 min)
+
+There were recently several questions about the current mode of operation between IRTF and OPS and whether/how activity transfer is happening between the two communities. This slot is an opportunity to explore collaboration between the communities, and not rely only on the leadership level. See, for example, the following excerpt form the NMRG Charter:
+
+   “The IETF Operations and Management Area Directors are members of the NMRG
+   mailing list and invited to NMRG meetings in order to ensure free flow of
+   information in both directions, and to avoid duplication of work with the
+   various IETF working groups.”
+
+There are several WG/RG pairs that may be considered for collaboration (NMRG/NMOP, MAPRG/IPPM, etc.) but it is better to scope the discussion to a specific area: suggest to focus this time on NMRG/NMOP.
+
+Thomas will drive a discussion on this topic with some proposals to bridge both communities.
+
 ### Raven, an Opensource BGP Routing Validation Tool
 
 RAVEN is an open-source, lightweight, single-binary routing security observability tool. It connects directly to your routers via BMP, validates every route against RPKI ROV and ASPA path validation in real time, and exposes the results through a CLI, Prometheus metrics, and Grafana dashboards.
@@ -72,8 +88,6 @@ RAVEN is an open-source, lightweight, single-binary routing security observabili
 ## Tentative
 
 ### AINETOPS Follow-up (15 min)
-
-### NMRG/IETF OPS Transfer: Status, Exploring collaboration (15 min)
 
 ### NMOP 3535 refresh: Focus on implementation Guidance (15 min)
 
