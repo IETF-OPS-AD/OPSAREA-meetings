@@ -12,8 +12,8 @@
 | 20       | foo over QUIC: Operational Motivations & Challenges | Per   |
 | 15       | Proposals for ICMP Extensions: Operational Motivations & Rationale | Ron  |
 | 15       |IRTF/IETF OPS Transfer: Status & Exploring Collaboration Opportunities| Thomas  |
+| 15       | Implementation policy in OPS? | Job  |
 | 15       | Raven: Opensource BGP Routing Validation            | Ritesh       |
-|          |                                                     |   |
 |          |                                                     |   |
 |          |                                                     |   |
 
@@ -81,18 +81,8 @@ There are several WG/RG pairs that may be considered for collaboration (NMRG/NMO
 
 Thomas will drive a discussion on this topic with some proposals to bridge both communities.
 
-### Raven, an Opensource BGP Routing Validation Tool
+### Implementation Policy in OPS? (Job Sneider, 15 min)
+
+### Raven, an Opensource BGP Routing Validation Tool (15 min)
 
 RAVEN is an open-source, lightweight, single-binary routing security observability tool. It connects directly to your routers via BMP, validates every route against RPKI ROV and ASPA path validation in real time, and exposes the results through a CLI, Prometheus metrics, and Grafana dashboards.
-
-## Tentative
-
-### AINETOPS Follow-up (15 min)
-
-### NMOP 3535 refresh: Focus on implementation Guidance (15 min)
-
-
-
-
-
-
