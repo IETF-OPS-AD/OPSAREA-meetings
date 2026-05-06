@@ -25,6 +25,7 @@
 ### State of OPS Nation (WG Chairs, 20 min)
 
 * DCONN (Peter/Hans)
+* REGEXT (pending)
 
 ### IAB Workshop on IP Address Geolocation: Issues and Perspectives (Tommy Pauly, 15 min)
 
