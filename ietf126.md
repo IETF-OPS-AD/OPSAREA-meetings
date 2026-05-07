@@ -69,7 +69,7 @@ There are many proposals to extend ICMP/ICMPv6 with a new feature. This slot is 
    + draft-xu-intarea-vulnerabilities-forged-icmp
    + draft-xu-intarea-challenge-icmpv4
 
-### IRTF/IETF OPS Transfer: Status & Exploring Collaboration Opportunities (Thomas Graff, 15 min)
+### IRTF/IETF OPS Transfer: Status & Exploring Collaboration Opportunities (Thomas Graf, 15 min)
 
 There were recently several questions about the current mode of operation between IRTF and OPS and whether/how activity transfer is happening between the two communities. This slot is an opportunity to explore collaboration between the communities, and not rely only on the leadership level. See, for example, the following excerpt form the NMRG Charter:
 
