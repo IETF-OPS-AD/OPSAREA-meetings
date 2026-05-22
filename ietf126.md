@@ -83,4 +83,4 @@ Thomas will drive a discussion on this topic with some proposals to bridge both 
 
 ### Raven, an Opensource BGP Routing Validation Tool (15 min)
 
-RAVEN is an open-source, lightweight, single-binary routing security observability tool. It connects directly to your routers via BMP, validates every route against RPKI ROV and ASPA path validation in real time, and exposes the results through a CLI, Prometheus metrics, and Grafana dashboards.
+RAVEN is an open-source, lightweight, single-binary routing security observability tool. It connects directly to routers via BMP, validates every route against RPKI ROV and ASPA path validation in real time, and exposes the results through a CLI, Prometheus metrics, and Grafana dashboards.
