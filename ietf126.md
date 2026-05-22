@@ -14,9 +14,6 @@
 | 15       |IRTF/IETF OPS Transfer: Status & Exploring Collaboration Opportunities| Thomas  |
 | 15       | Implementation policy in OPS? | Job  |
 | 15       | Raven: Opensource BGP Routing Validation            | Ritesh       |
-|          |                                                     |   |
-|          |                                                     |   |
-
 
 ## Detailed Agenda
 
