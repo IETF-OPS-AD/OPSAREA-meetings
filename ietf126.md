@@ -7,7 +7,7 @@
 |Slot      | Topic                                               | Presenters   |
 |:--------:|:---------------------------------------------------:|:-------------|
 | 5        | Agenda Bashing & Introduction                       | ADs          |
-| 20       | State of OPS Nation                                 | Hans/Jim          |
+| 20       | State of OPS Nation                                 | Peter/Jim          |
 | 15       | IP Address Geolocation                              | Tommy        |
 | 20       | foo over QUIC: Operational Motivations & Challenges | Per   |
 | 15       | Proposals for ICMP Extensions: Operational Motivations & Rationale | Ron  |
