@@ -8,6 +8,7 @@
 |:--------:|:---------------------------------------------------:|:-------------|
 | 5        | Agenda Bashing & Introduction                       | ADs          |
 | 20       | State of OPS Nation                                 | xxx          |
+| 10       | RPKI Doctors                                        | xxx        |
 | 30       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
 | xxx       | xxx                              | xxx        |
 | xxx       | xxx                              | xxx        |
@@ -22,6 +23,8 @@
 
 * NETMOD (Lou/Kent)
 * XXXX
+
+### RPKI Doctors (TBC, 10 min)
 
 ### YANG Versioning: Status & Operationalizing Plan (30 min)
 
