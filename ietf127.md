@@ -9,9 +9,9 @@
 | 5        | Agenda Bashing & Introduction                       | ADs          |
 | 20       | State of OPS Nation                                 | xxx          |
 | 10       | RPKI Doctors                                        | Job/Luigi    |
+| 15       | ICMP Guidance (Follow-up)                          | xxx        |
+| 15       | QUIC Guidance (Follow-up)                         | xxx        |
 | 30       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
-| xxx       | xxx                              | xxx        |
-| xxx       | xxx                              | xxx        |
 | xxx       | xxx                              | xxx        |
 | xxx       | xxx                              | xxx        |
 
@@ -25,6 +25,10 @@
 * XXXX
 
 ### RPKI Doctors (Job/Luigi, 10 min)
+
+## ICMP Guidance (Follow-up) (15 min)
+
+##  QUIC Guidance (Follow-up) (15 min)
 
 ### YANG Versioning: Status & Operationalizing Plan (30 min)
 
