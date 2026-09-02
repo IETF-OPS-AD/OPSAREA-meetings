@@ -10,10 +10,10 @@
 | 30       | State of OPS Nation                                 | xxx          |
 | 10       | RPKI Doctors                                        | Job/Luigi    |
 | 15       | Update on ICMP Use Policy                           | Ron        |
-| 15       | QUIC Guidance (Follow-up)                         | xxx        |
+| 15       | New Directions in IP Geolocation                    |Oliver     |
+| 15       | QUIC Guidance (Follow-up)                           | xxx        |
 | 30       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
-| xxx       | xxx                              | xxx        |
-| xxx       | xxx                              | xxx        |
+
 
 ## Detailed Agenda
 
@@ -30,6 +30,10 @@
 
 * This is a follow-up to the discussion in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00). 
 
+## Main Outcomes from the "New Directions in IP Geolocation" Workshop (Oliver Gasser, 15 min)
+
+* This is a follow-up to the discussion in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00). 
+
 ##  QUIC Guidance (Follow-up) (15 min)
 
 ### YANG Versioning: Status & Operationalizing Plan (30 min)
@@ -37,7 +41,4 @@
 * Versioning Overview & Implications (Presenter 1)
 * Tooling support status (Presenter 2)
 * Implementation plan for Document Authors (and IANA/RFC Editor)  (Presenter 3)
-
-
-### another Item
 
