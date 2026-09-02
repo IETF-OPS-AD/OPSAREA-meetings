@@ -32,7 +32,9 @@
 
 ## Main Outcomes from the "New Directions in IP Geolocation" Workshop (Oliver Gasser, 15 min)
 
-* This is a follow-up to the discussion in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00). 
+* This is a follow-up to the discussion in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00).
+* Help close the gap between the operational reality vs. research proposals.
+
 
 ##  QUIC Guidance (Follow-up) (15 min)
 
