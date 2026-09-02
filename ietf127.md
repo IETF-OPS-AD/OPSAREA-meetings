@@ -7,9 +7,9 @@
 |Slot      | Topic                                               | Presenters   |
 |:--------:|:---------------------------------------------------:|:-------------|
 | 5        | Agenda Bashing & Introduction                       | ADs          |
-| 20       | State of OPS Nation                                 | xxx          |
+| 30       | State of OPS Nation                                 | xxx          |
 | 10       | RPKI Doctors                                        | Job/Luigi    |
-| 15       | ICMP Guidance (Follow-up)                          | xxx        |
+| 15       | Update on ICMP Use Policy                           | Ron        |
 | 15       | QUIC Guidance (Follow-up)                         | xxx        |
 | 30       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
 | xxx       | xxx                              | xxx        |
@@ -19,14 +19,16 @@
 
 ### Introduction (ADs, 5 min)
 
-### State of OPS Nation (WG Chairs, 20 min)
+### State of OPS Nation (WG Chairs, 30 min)
 
 * NETMOD (Lou/Kent)
-* XXXX
+* BPM (?)
 
 ### RPKI Doctors (Job/Luigi, 10 min)
 
-## ICMP Guidance (Follow-up) (15 min)
+## Update on ICMP Use Policy (Ron Bonica, 15 min)
+
+* This is a follow-up to the discussion in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00). 
 
 ##  QUIC Guidance (Follow-up) (15 min)
 
