@@ -7,12 +7,13 @@
 |Slot      | Topic                                               | Presenters   |
 |:--------:|:---------------------------------------------------:|:-------------|
 | 5        | Agenda Bashing & Introduction                       | ADs          |
-| 30       | State of OPS Nation                                 | xxx          |
+| 20       | State of OPS Nation                                 | xxx          |
 | 10       | RPKI Doctors                                        | Job/Luigi    |
 | 15       | Update on ICMP Use Policy                           | Ron        |
 | 15       | New Directions in IP Geolocation                    |Oliver     |
+| 15       | BGP Communities in the Wild (tentative)             | Thomas   |  
 | 15       | QUIC Guidance (Follow-up)                           | xxx        |
-| 30       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
+| 25       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
 
 
 ## Detailed Agenda
@@ -39,7 +40,9 @@
 
 ##  QUIC Guidance (Follow-up) (15 min)
 
-### YANG Versioning: Status & Operationalizing Plan (30 min)
+##  BGP Communities in the Wild: feedback from operations (Thomas Krenc, 15 min) (tentative)
+
+### YANG Versioning: Status & Operationalizing Plan (25 min)
 
 * Versioning Overview & Implications (Presenter 1)
 * Tooling support status (Presenter 2)
