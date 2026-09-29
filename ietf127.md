@@ -11,7 +11,7 @@
 | 10       | RPKI Doctors                                        | Job/Luigi    |
 | 15       | Update on ICMP Use Policy                           | Ron        |
 | 15       | New Directions in IP Geolocation                    |Oliver     |
-| 15       | BGP Communities in the Wild (tentative)             | Thomas   |  
+| 15       | BGP Communities in the Wild: Feedback from Operators| Thomas   |  
 | 15       | QUIC Guidance (Follow-up)                           | Gorry        |
 | 25       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
 
@@ -20,7 +20,7 @@
 
 ### Introduction (ADs, 5 min)
 
-### State of OPS Nation (WG Chairs, 30 min)
+### State of OPS Nation (WG Chairs, 20 min)
 
 * NETMOD (Lou/Kent)
 * BPM (?)
@@ -37,12 +37,12 @@
 * This is a follow-up to the discussion that held in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00).
 * Help close the gap between the operational reality vs. research proposals.
 
+##  BGP Communities in the Wild: Feedback from operations (Thomas Krenc, 15 min)
+
 ##  QUIC Guidance (Follow-up) (15 min)
 
 * Gorry Fairhurst (WIT AD)
 * [Guidance](https://wiki.ietf.org/en/group/tsv/TSVART-quic-usage)
-
-##  BGP Communities in the Wild: feedback from operations (Thomas Krenc, 15 min) (tentative)
 
 ### YANG Versioning: Status & Operationalizing Plan (25 min)
 
