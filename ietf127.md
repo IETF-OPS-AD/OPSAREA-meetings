@@ -7,7 +7,7 @@
 |Slot      | Topic                                               | Presenters   |
 |:--------:|:---------------------------------------------------:|:-------------|
 | 5        | Agenda Bashing & Introduction                       | ADs          |
-| 20       | State of OPS Nation                                 | xxx          |
+| 20       | State of OPS Nation                                 | Lou/Thomas   |
 | 10       | RPKI Doctors                                        | Job/Luigi    |
 | 15       | Update on ICMP Use Policy                           | Ron        |
 | 15       | New Directions in IP Geolocation                    |Oliver     |
@@ -22,8 +22,8 @@
 
 ### State of OPS Nation (WG Chairs, 20 min)
 
-* NETMOD (Lou/Kent)
-* BPM (?)
+* NETMOD (Lou)
+* BPM (Thomas)
 
 ### RPKI Doctors (Job/Luigi, 10 min)
 
