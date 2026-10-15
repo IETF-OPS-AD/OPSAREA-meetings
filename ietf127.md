@@ -12,8 +12,8 @@
 | 15       | Update on ICMP Use Policy                           | Ron        |
 | 15       | New Directions in IP Geolocation                    |Oliver     |
 | 15       | BGP Communities in the Wild: Feedback from Operators| Thomas   |  
-| 15       | QUIC Guidance (Follow-up)                           | Gorry        |
 | 25       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
+| 15       | QUIC Guidance (Follow-up)                           | Gorry        |
 
 
 ## Detailed Agenda
@@ -39,14 +39,13 @@
 
 ##  BGP Communities in the Wild: Feedback from operations (Thomas Krenc, 15 min)
 
-##  QUIC Guidance (Follow-up) (15 min)
-
-* Gorry Fairhurst (WIT AD)
-* [Guidance](https://wiki.ietf.org/en/group/tsv/TSVART-quic-usage)
-
 ### YANG Versioning: Status & Operationalizing Plan (25 min)
 
 * Versioning Overview & Implications (Presenter 1)
 * Tooling support status (Presenter 2)
 * Implementation plan for Document Authors (and IANA/RFC Editor)  (Presenter 3)
 
+##  QUIC Guidance (Follow-up) (15 min)
+
+* Gorry Fairhurst (WIT AD)
+* [Guidance](https://wiki.ietf.org/en/group/tsv/TSVART-quic-usage)
