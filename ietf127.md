@@ -27,17 +27,25 @@
 
 ### RPKI Doctors (Job/Luigi, 10 min)
 
-## Update on ICMP Use Policy (Ron Bonica, 15 min)
+### Update on ICMP Use Policy (Ron Bonica, 15 min)
 
 * This is a follow-up to the discussion that held in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00).
 * Related reading: [BCP189](https://datatracker.ietf.org/doc/bcp189/)
 
-## Main Outcomes from the "New Directions in IP Geolocation" Workshop (Oliver Gasser, 15 min)
+### Main Outcomes from the "New Directions in IP Geolocation" Workshop (Oliver Gasser, 15 min)
 
 * This is a follow-up to the discussion that held in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00).
 * Help close the gap between the operational reality vs. research proposals.
 
-##  BGP Communities in the Wild: Feedback from operations (Thomas Krenc, 15 min)
+###  BGP Communities in the Wild: Feedback from operations (Thomas Krenc, 15 min)
+
+Some of the topics that will be covered, include:
+
+* machine-readable publication of community semantics
+* propagation and scope of community information
+* authorization of actionable communities
+* use of communities for more dynamic operational state
+* highlight where evidence suggests that additional protocol machinery may not necessarily be the right solution
 
 ### YANG Versioning: Status & Operationalizing Plan (25 min)
 
@@ -45,7 +53,7 @@
 * Tooling support status (Presenter 2)
 * Implementation plan for Document Authors (and IANA/RFC Editor)  (Presenter 3)
 
-##  QUIC Guidance (Follow-up) (15 min)
+###  QUIC Guidance (Follow-up) (15 min)
 
 * Gorry Fairhurst (WIT AD)
 * [Guidance](https://wiki.ietf.org/en/group/tsv/TSVART-quic-usage)
