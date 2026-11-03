@@ -10,9 +10,9 @@
 | 20       | State of OPS Nation                                 | Lou/Thomas   |
 | 10       | RPKI Doctors                                        | Job/Luigi    |
 | 15       | Update on ICMP Use Policy                           | Ron        |
-| 15       | New Directions in IP Geolocation                    |Oliver     |
-| 15       | BGP Communities in the Wild: Feedback from Operators| Thomas   |  
-| 25       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
+| 10       | New Directions in IP Geolocation                    |Oliver (Remote)     |
+| 15       | BGP Communities in the Wild: Feedback from Operators| Thomas (Remote)   |  
+| 30       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
 | 15       | QUIC Guidance (Follow-up)                           | Gorry        |
 
 
@@ -32,7 +32,7 @@
 * This is a follow-up to the discussion that held in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00).
 * Related reading: [BCP189](https://datatracker.ietf.org/doc/bcp189/)
 
-### Main Outcomes from the "New Directions in IP Geolocation" Workshop (Oliver Gasser, 15 min)
+### Main Outcomes from the "New Directions in IP Geolocation" Workshop (Oliver Gasser, 10 min)
 
 * This is a follow-up to the discussion that held in [IETF#126](https://datatracker.ietf.org/meeting/126/materials/minutes-126-opsarea-202607231430-00).
 * Help close the gap between the operational reality vs. research proposals.
@@ -47,7 +47,7 @@ Some of the topics that will be covered, include:
 * use of communities for more dynamic operational state
 * highlight where evidence suggests that additional protocol machinery may not necessarily be the right solution
 
-### YANG Versioning: Status & Operationalizing Plan (25 min)
+### YANG Versioning: Status & Operationalizing Plan (30 min)
 
 * Versioning Overview & Implications (Presenter 1)
 * Tooling support status (Presenter 2)
