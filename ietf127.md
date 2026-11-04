@@ -7,12 +7,12 @@
 |Slot      | Topic                                               | Presenters   |
 |:--------:|:---------------------------------------------------:|:-------------|
 | 5        | Agenda Bashing & Introduction                       | ADs          |
-| 20       | State of OPS Nation                                 | Lou/Thomas   |
+| 20       | State of OPS Nation                                 | Lou-Kent/Thomas   |
 | 10       | RPKI Doctors                                        | Job/Luigi    |
 | 15       | Update on ICMP Use Policy                           | Ron        |
 | 10       | New Directions in IP Geolocation                    |Oliver (Remote)     |
 | 15       | BGP Communities in the Wild: Feedback from Operators| Thomas (Remote)   |  
-| 30       | YANG Versioning: Status & Operationalizing Plan     | xxx        |
+| 30       | YANG Versioning: Status & Operationalizing Plan     | TBC        |
 | 15       | QUIC Guidance (Follow-up)                           | Gorry        |
 
 
@@ -22,7 +22,7 @@
 
 ### State of OPS Nation (WG Chairs, 20 min)
 
-* NETMOD (Lou)
+* NETMOD (Lou/Kent)
 * BPM (Thomas)
 
 ### RPKI Doctors (Job/Luigi, 10 min)
