@@ -15,15 +15,14 @@
 | 30       | YANG Versioning: Status & Operationalizing Plan     | Joe            |
 | 15       | QUIC Guidance (Follow-up)                           | Gorry          |
 
-
 ## Detailed Agenda
 
 ### Introduction (ADs, 5 min)
 
 ### State of OPS Nation (20 min)
 
-* NETMOD (Lou/Kent)
 * BPM (Thomas)
+* NETMOD (Lou/Kent)
 
 ### RPKI Doctors (Job/Luigi, 10 min)
 
