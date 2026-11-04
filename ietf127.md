@@ -4,23 +4,23 @@
 
 ## Compact Agenda
 
-|Slot      | Topic                                               | Presenters   |
-|:--------:|:---------------------------------------------------:|:-------------|
-| 5        | Agenda Bashing & Introduction                       | ADs          |
-| 20       | State of OPS Nation                                 | Lou-Kent/Thomas   |
-| 10       | RPKI Doctors                                        | Job/Luigi    |
-| 15       | Update on ICMP Use Policy                           | Ron        |
-| 10       | New Directions in IP Geolocation                    |Oliver (Remote)     |
-| 15       | BGP Communities in the Wild: Feedback from Operators| Thomas (Remote)   |  
-| 30       | YANG Versioning: Status & Operationalizing Plan     | TBC        |
-| 15       | QUIC Guidance (Follow-up)                           | Gorry        |
+|Slot      | Topic                                               | Presenters     |
+|:--------:|:---------------------------------------------------:|:---------------|
+| 5        | Agenda Bashing & Introduction                       | ADs            |
+| 20       | State of OPS Nation                                 | Lou-Kent/Thomas|
+| 10       | RPKI Doctors                                        | Job/Luigi      |
+| 15       | Update on ICMP Use Policy                           | Ron            |
+| 10       | New Directions in IP Geolocation                    |Oliver (Remote) |
+| 15       | BGP Communities in the Wild: Feedback from Operators| Thomas (Remote)|  
+| 30       | YANG Versioning: Status & Operationalizing Plan     | Joe            |
+| 15       | QUIC Guidance (Follow-up)                           | Gorry          |
 
 
 ## Detailed Agenda
 
 ### Introduction (ADs, 5 min)
 
-### State of OPS Nation (WG Chairs, 20 min)
+### State of OPS Nation (20 min)
 
 * NETMOD (Lou/Kent)
 * BPM (Thomas)
@@ -47,13 +47,12 @@ Some of the topics that will be covered, include:
 * use of communities for more dynamic operational state
 * highlight where evidence suggests that additional protocol machinery may not necessarily be the right solution
 
-### YANG Versioning: Status & Operationalizing Plan (30 min)
+### YANG Versioning: Status & Operationalizing Plan (Joe Clarke, 30 min)
 
-* Versioning Overview & Implications (Presenter 1)
-* Tooling support status (Presenter 2)
-* Implementation plan for Document Authors (and IANA/RFC Editor)  (Presenter 3)
+* Versioning Overview & Implications
+* Tooling support status
+* Implementation plan for Document Authors (and IANA/RFC Editor)
 
-###  QUIC Guidance (Follow-up) (15 min)
+###  QUIC Guidance (Follow-up) (Gorry Fairhurst, 15 min)
 
-* Gorry Fairhurst (WIT AD)
 * [Guidance](https://wiki.ietf.org/en/group/tsv/TSVART-quic-usage)
