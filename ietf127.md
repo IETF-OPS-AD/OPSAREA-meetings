@@ -1,6 +1,7 @@
 # Operations & Management Area Open Meeting (opsarea) Agenda - IETF 127
 
 * ADs: Mohamed Boucadair & Mahesh Jethanandani
+* Minutes: Qiufang Ma
 
 ## Compact Agenda
 
