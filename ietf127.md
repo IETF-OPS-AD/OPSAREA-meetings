@@ -1,14 +1,14 @@
 # Operations & Management Area Open Meeting (opsarea) Agenda - IETF 127
 
 * ADs: Mohamed Boucadair & Mahesh Jethanandani
-* Minutes: Qiufang Ma
+* Minutes: Qiufang Ma & Thomas Graf
 
 ## Compact Agenda
 
 |Slot      | Topic                                               | Presenters     |
 |:--------:|:---------------------------------------------------:|:---------------|
 | 5        | Agenda Bashing & Introduction                       | ADs            |
-| 20       | State of OPS Nation                                 | Lou-Kent/Thomas|
+| 20       | State of OPS Nation                                 | Thomas/Lou-Kent-Rob/|
 | 10       | RPKI Doctors                                        | Job/Luigi      |
 | 15       | Update on ICMP Use Policy                           | Ron            |
 | 10       | New Directions in IP Geolocation                    |Oliver (Remote) |
